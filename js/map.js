@@ -1,0 +1,1 @@
+var mapYandex=document.querySelector(".map__yandex"),pinEnergy=document.querySelector(".map__pin-image");mapYandex.classList.remove("map__yandex--hide"),pinEnergy.classList.add("map__pin-image--js");
